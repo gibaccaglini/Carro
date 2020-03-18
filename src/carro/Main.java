@@ -20,7 +20,7 @@ public class Main {
         camaro.acelerar(50);
         System.out.println(camaro.getVelocidade());
 
-        camaro.acelerar(-10);
+        camaro.acelerar(-20);
         System.out.println(camaro.getVelocidade());
 
     }
